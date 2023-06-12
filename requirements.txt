@@ -1,0 +1,13 @@
+
+flask
+pandas
+numpy
+scikit-learn
+pandas_profiling
+ipywidgets
+Flask
+seaborn
+
+gunicorn
+datetime
+# -e .
